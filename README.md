@@ -48,7 +48,10 @@ The following datasets were used to create the database:
 - Imported *headshot.xlsx* and linked it to employee data using *employee_id*.
 - Used **Power Query’s Group By feature** to calculate budget per department.
 - Created a **custom column ‘Revenue’** to analyze department profitability.
-- Created another column to calculate **budget for 2 years**.
+![image](https://github.com/user-attachments/assets/390f41f2-3900-4e55-b8c0-fd84a3ff3a97)  
+
+- Created another column to calculate **budget for 2 years**.  
+![image](https://github.com/user-attachments/assets/359192e1-3fe8-4159-9251-97f579651acd)  
 
 2️⃣ **Data Visualizations**
 1. 📊 **Donut Chart** – Displays Department Name and Project Cost.
